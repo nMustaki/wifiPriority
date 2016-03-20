@@ -12,7 +12,7 @@ For the moment, it scans for all available wifi networks, and connects to the st
 
 # Usage
 ```python
-python wifipriority.py
+python wifipriority/__init__.py
 ```
 
 # Roadmap
